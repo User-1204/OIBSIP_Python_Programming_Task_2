@@ -111,17 +111,6 @@ python main.py
 
 The GUI will open where you can enter your data and view results.
 
----
-
-## Demo Video
-
-
-
-
-## Output Image
-
-<img width="630" height="985" alt="Image" src="https://github.com/user-attachments/assets/80f0ccfd-1ad7-4151-8a15-db1d3f4b0ddf" />
-
 
 ## Possible Enhancements
 
@@ -132,7 +121,11 @@ The GUI will open where you can enter your data and view results.
 * Desktop notifications.
 
 
-## Conclusion
+## Demo Video
 
-This project combines BMI calculation, user-friendly interface, historical tracking, and data visualization in Python.
-It shows how modular design makes the code easy to maintain and extend.
+
+
+
+## Output Image
+
+<img width="630" height="985" alt="Image" src="https://github.com/user-attachments/assets/80f0ccfd-1ad7-4151-8a15-db1d3f4b0ddf" />
