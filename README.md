@@ -123,7 +123,7 @@ The GUI will open where you can enter your data and view results.
 
 ## Demo Video
 
-
+https://www.linkedin.com/posts/sakshii125_oasisinfobyte-pythonprogramming-internship-activity-7354024727788560384-vS1W?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFlzQCEBcgHpQxLz_XBWlVGbkhDirbT-r5Y
 
 
 ## Output Image
